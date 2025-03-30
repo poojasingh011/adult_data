@@ -1,0 +1,45 @@
+Dataset Overview
+
+File Information
+Filename: adult.csv
+Source: UCI Machine Learning Repository
+Task: Classification (Income Prediction)
+Number of Instances: 48,842
+Number of Attributes: 15 (excluding target variable)
+
+Column Descriptions
+
+age: Represents the age of the individual.
+
+workclass: Specifies the type of employment, such as private, self-employed, or government jobs.
+
+fnlwgt: Final weight, representing population weight for the instance.
+
+education: Highest level of education attained, such as Bachelors, Masters, or Doctorate.
+
+education-num: A numeric representation of education level.
+
+marital-status: Describes the marital status of the individual, such as married, single, or divorced.
+
+occupation: Represents the individual's job role or profession.
+
+relationship: Describes the relationship status within a family, such as husband, wife, or child.
+
+race: Specifies the race of the individual.
+
+sex: Indicates the gender of the individual, either male or female.
+
+capital-gain: The income from capital gains.
+
+capital-loss: The loss from capital investments.
+
+hours-per-week: The number of hours the individual works per week.
+
+native-country: The country of origin of the individual.
+
+salary: The income class, either <=50K or >50K.
+
+  
+
+
+
